@@ -1,6 +1,5 @@
 <h1 align="center">Olá, me chamo 👋 Kauã</h1>
-<h3 align="center">Atualmente, estou matriculado no Instituto PROA, onde tenho desenvolvido habilidades em HTML, CSS e JavaScript básico. No entanto, estou determinado a expandir meu conhecimento e a me especializar em áreas específicas, como Desenvolvimento Backend e DevOps.<br>Este perfil no GitHub serve como uma plataforma onde compartilho meus projetos e procuro oportunidades de colaboração valiosas. Estou ansioso para contribuir de forma significativa e também para aprender com os membros da comunidade. Estou certo de que, juntos, podemos alcançar resultados notáveis.
-
+<h3 align="center">Atualmente, estou matriculado no Instituto PROA, onde tenho desenvolvido habilidades em HTML, CSS e JavaScript básico. No entanto, estou determinado a expandir meu conhecimento e a me especializar em áreas específicas, como Desenvolvimento Backend e DevOps.<br>Este perfil no GitHub serve como uma plataforma onde compartilho meus projetos e procuro oportunidades de colaboração valiosas.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
