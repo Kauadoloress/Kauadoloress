@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo 👋 Kauã</h1>
-<h3 align="center">Atualmente sou um dos alunos do instituto PROA, tenho conhecimento em HTML, CSS, JavaScript Básico, mas com Proa pretendo expandir meu conhecimento, e também pretendo me espacializar em áres como Dev. Backend e DevOps.</h3>
+<h3 align="center">Atualmente sou um dos alunos do instituto PROA, tenho conhecimento em HTML, CSS, JavaScript Básico, mas com Proa pretendo expandir meu conhecimento, e também pretendo me especializar em áres como Dev. Backend e DevOps.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
